@@ -2,13 +2,13 @@
 
 Uma aplicação simples e funcional de gerenciamento de livros em uma biblioteca.
 
-# 📌 Tabela de conteúdos
+# Tabela de conteúdos
 
-- [Tecnologias](#computer-tecnologias)
-- [Setup Database](#gear-setup-database)
-- [Como rodar](#tv-como-rodar)
+- [Tecnologias](#tecnologias)
+- [Setup Database](#setup-database)
+- [Como rodar](#como-rodar)
 
-# 💻 Tecnologias
+# Tecnologias
 
 - [x] C++
 - [x] iostream
@@ -16,7 +16,7 @@ Uma aplicação simples e funcional de gerenciamento de livros em uma biblioteca
 - [x] sstream
 - [x] string
 
-# ⚙️ Setup Database
+# Setup Database
 
 Os passos a seguir descrevem como configurar o banco de dados da aplicação.
 
@@ -26,7 +26,7 @@ Os passos a seguir descrevem como configurar o banco de dados da aplicação.
 - Observe que os textos estam separados por ";" isso é extremamente importante para que a aplicação execute corretamente.
 
 
-# 📺 Como Rodar
+# Como Rodar
 
 ```shell
 ## Para executar a aplicação você precisará compilar o projeto com algum compilador de C++:
