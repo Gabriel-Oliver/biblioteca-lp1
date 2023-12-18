@@ -18,7 +18,7 @@ Uma aplicação simples e funcional de gerenciamento de livros em uma biblioteca
 
 # ⚙️ Setup Database
 
-## Os passos a seguir descrevem como configurar o banco de dados da aplicação.
+Os passos a seguir descrevem como configurar o banco de dados da aplicação.
 
 - Crie um arquvio txt de nome "livros.txt";
 - Para adicionar livros a esse arquivo você deverá digitar-los seguindo a seguinte estrutura:
